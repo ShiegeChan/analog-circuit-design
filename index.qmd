@@ -38,7 +38,7 @@ bibliography: references.bib
 {{< include /content/_sec_cascode_stage.qmd >}}
 {{< include /content/_sec_improved_ota.qmd >}}
 
-# A Fully-Differential OTA
+# A Fully-Differential OTAv from Siegfried
 
 To be added in a future release.
 
